@@ -25,19 +25,19 @@
                         <!--end::Status-->
 
                         <!--begin::Description-->
-                        <div class="d-flex flex-wrap fw-semibold mb-4 fs-5 text-gray-400">
+                        <!-- <div class="d-flex flex-wrap fw-semibold mb-4 fs-5 text-gray-400">
                             Client still on BE Process
-                        </div>
+                        </div> -->
                         <!--end::Description-->
                     </div>
                     <!--end::Details-->
 
                     <!--begin::Actions-->
-                    <div class="d-flex mb-4">
+                    <!-- <div class="d-flex mb-4">
                         <a href="#" class="btn btn-sm btn-bg-light btn-active-color-primary me-3" data-bs-toggle="modal" data-bs-target="#kt_modal_users_search">Add User</a>
 
                         <a href="#" class="btn btn-sm btn-primary me-3" data-bs-toggle="modal" data-bs-target="#kt_modal_new_target">Add Target</a>
-                    </div>
+                    </div> -->
                     <!--end::Actions-->
                 </div>
                 <!--end::Head-->
@@ -110,9 +110,9 @@
             </li>
             <!--end::Nav item-->
             <!--begin::Nav item-->
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link text-active-primary py-5 me-6 " href="#">History</a>
-            </li>
+            </li> -->
             <!--end::Nav item-->
             <!--begin::Nav item-->
             <li class="nav-item">
